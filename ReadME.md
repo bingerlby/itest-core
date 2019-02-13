@@ -1,6 +1,6 @@
-###测试基础包
+测试基础包
 
-- #####com.lby.itest.http.HttpDriver
+- com.lby.itest.http.HttpDriver
 
     - 基于Rest-Assured封装的http请求工具包，可通过配置文件配置http参数
     - 配置文件位置：src/main/resources/http/httpconf.properties
